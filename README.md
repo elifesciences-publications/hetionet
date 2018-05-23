@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Himmelstein et al., "Systematic integration of biomedical knowledge prioritizes drugs for repurposing". eLife, 2017. http://dx.doi.org/10.7554/eLife.26726
+
+
+
 # Hetionet: an integrative network of disease
 
 Hetionet is a hetnet — network with multiple node and edge (relationship) types — which encodes biology. The hetnet was designed for [Project Rephetio](http://thinklab.com/p/rephetio "Repurposing drugs on a hetnet · Project Rephetio on Thinklab"), which aims to systematically identify why drugs work and predict new therapies for drugs.
